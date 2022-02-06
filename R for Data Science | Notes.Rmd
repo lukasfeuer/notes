@@ -2,6 +2,9 @@
 title: "R for Data Science | Notes"
 author: "Lukas Feuer"
 output:
+  html_document:
+    toc: yes
+    df_print: paged
   html_notebook:
     theme: paper
     highlight: pygments
